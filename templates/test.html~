@@ -1,0 +1,2 @@
+<h1>Test page!</h1>
+<a href="{{ url_for('/') }}">Return to index</a>
